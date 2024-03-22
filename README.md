@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**chotixity/chotixity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="left">Hi 👋! My name is Melkzedek Choti and I'm a Flutter Developer Curious about Data, from Kenya</h2>
 
 ###
@@ -59,32 +42,18 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/chotixity/chotixity/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img src="https://raw.githubusercontent.com/chotixity/chotixity/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <a href="https://open.spotify.com/user/h1n446r60q2wvy19p36i59et3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=h1n446r60q2wvy19p36i59et3&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
