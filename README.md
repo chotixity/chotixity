@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Melkzedek Choti and I'm a Flutter Developer Curious about Data, from Kenya</h2>
+<h2 align="left">Hi 👋! My name is Melkzedek Choti and I'm a Software Developer who builds nice user experiences anywhere you want it</h2>
 
 ###
 
